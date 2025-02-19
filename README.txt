@@ -14,6 +14,7 @@ projects.
 
 
 Link planning dashboard grupal: https://github.com/users/paugonpae67/projects/1 
+Link planning dashboar Paula: https://github.com/users/paugonpae67/projects/2/views/1?system_template=kanban
 
 # Copyright (C) 2012-2025 Rafael Corchuelo.
 #
