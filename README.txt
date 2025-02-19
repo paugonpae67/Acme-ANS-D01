@@ -1,5 +1,17 @@
-# README.txt
-#
+Acme ANS, Inc.
+
+This is an initial project based on the fictitious company Acme AirNav Solutions, Inc. (Acme ANS, Inc.), 
+which is dedicated to providing software resources, specifically a WIS, to airports. These resources will 
+help airports manage their own resources and coordinate operations. In summary, helping them with the logistics of charter flights.
+
+The scope of this project includes flight scheduling, booking management, crew management, incident reporting and 
+resolution, as well as aircraft maintenance. 
+
+It is intended to be a core learning asset for the students
+who have enrolled the Design and Testing subject of the Software Engineering curriculum of the 
+University of Seville.  This project helps them start working on their new information system 
+projects.
+
 # Copyright (C) 2012-2025 Rafael Corchuelo.
 #
 # In keeping with the traditional purpose of furthering education and research, it is
@@ -8,14 +20,4 @@
 # purposes.  The copyright owner does not offer any warranties or representations, nor do
 # they accept any liabilities with respect to them.
 
-This is a starter project.  It is intended to be a core learning asset for the students
-who have enrolled the Design and Testing subject of the Software Engineering curriculum of the 
-University of Seville.  This project helps them start working on their new information system 
-projects.
-
-To get this project up and running, please follow the guideline in the theory/lab materials,
-taking into account that you must link the appropriate version of the Acme-Framework excluding 
-the following resources:
-
-- **/fragments/**
  
