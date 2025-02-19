@@ -12,7 +12,8 @@
 
 master.menu.anonymous = Anonymous
 master.menu.anonymous.link-Paula = 30258630: Gonzalez Paez, Paula Rosa
-
+master.menu.anonymous.link-Lidia = 29541812Z: Fernández Casillas, Lidia Ning
+master.menu.anonymous.link-Fernando = 29591388: Partal García, Fernando
 # master.menu.administrator ###################################################
 
 master.menu.administrator = Administrator
