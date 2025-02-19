@@ -1,12 +1,4 @@
-# README.txt
-#
-# Copyright (C) 2012-2025 Rafael Corchuelo.
-#
-# In keeping with the traditional purpose of furthering education and research, it is
-# the policy of the copyright owner to permit non-commercial use and redistribution of
-# this software. It has been tested carefully, but it is not guaranteed for any particular
-# purposes.  The copyright owner does not offer any warranties or representations, nor do
-# they accept any liabilities with respect to them.
+Acme ANS, Inc.
 
 This is an initial project based on the fictitious company Acme AirNav Solutions, Inc. (Acme ANS, Inc.), 
 which is dedicated to providing software resources, specifically a WIS, to airports. These resources will 
@@ -20,5 +12,12 @@ who have enrolled the Design and Testing subject of the Software Engineering cur
 University of Seville.  This project helps them start working on their new information system 
 projects.
 
+# Copyright (C) 2012-2025 Rafael Corchuelo.
+#
+# In keeping with the traditional purpose of furthering education and research, it is
+# the policy of the copyright owner to permit non-commercial use and redistribution of
+# this software. It has been tested carefully, but it is not guaranteed for any particular
+# purposes.  The copyright owner does not offer any warranties or representations, nor do
+# they accept any liabilities with respect to them.
 
  
