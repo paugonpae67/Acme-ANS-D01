@@ -1,4 +1,4 @@
-# footer-es.i18n
+# footer-zh.i18n
 #
 # Copyright (C) 2012-2025 Rafael Corchuelo.
 #
@@ -8,15 +8,15 @@
 # purposes.  The copyright owner does not offer any warranties or representations, nor do
 # they accept any liabilities with respect to them.
 
-master.footer.title.about = Nosotros
-master.footer.label.company = La empresa
-master.footer.label.license = Licencia
-master.footer.title.social = Social
+master.footer.title.about = 我们
+master.footer.label.company = 公司
+master.footer.label.license = 许可证
+master.footer.title.social = 社交
 master.footer.url.linkedin = http://www.linkedin.com
 master.footer.label.linked-in = Linked-In
 master.footer.url.twitter = http://www.twitter.com
 master.footer.label.twitter = Twitter
-master.footer.title.languages = Lenguajes
-master.footer.label.english = Inglés
-master.footer.label.spanish = Español
-master.footer.label.chinese = Chino Mandarín
+master.footer.title.languages = 语言
+master.footer.label.english = 英语
+master.footer.label.spanish = 西班牙语
+master.footer.label.chinese = 普通话
