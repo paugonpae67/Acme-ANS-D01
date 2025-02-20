@@ -14,7 +14,7 @@ projects.
 
 
 Link planning dashboard grupal: https://github.com/users/paugonpae67/projects/1 
-Link planning dashboard Paula: https://github.com/users/paugonpae67/projects/2/views/1?system_template=kanban
+Link planning dashboard Paula: https://github.com/users/paugonpae67/projects/8
 Link planning dashboard Lidia: https://github.com/users/paugonpae67/projects/6/views/1
 Link planning dashboard Iratxe: https://github.com/users/paugonpae67/projects/4/views/1
 Link planning dashboard Fernando: https://github.com/users/paugonpae67/projects/7/views/1
