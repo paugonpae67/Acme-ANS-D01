@@ -18,6 +18,7 @@ Link planning dashboard Paula: https://github.com/users/paugonpae67/projects/2/v
 Link planning dashboard Lidia: https://github.com/users/paugonpae67/projects/6/views/1
 Link planning dashboard Iratxe: https://github.com/users/paugonpae67/projects/4/views/1
 Link planning dashboard Fernando: https://github.com/users/paugonpae67/projects/7/views/1
+Link planning dashboard Maria: https://github.com/users/paugonpae67/projects/5/views/1
 
 # Copyright (C) 2012-2025 Rafael Corchuelo.
 #
