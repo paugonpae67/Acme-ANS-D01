@@ -23,6 +23,7 @@
 			<acme:menu-suboption code="master.menu.anonymous.link-Lidia" action="https://www.netflix.com/es/"/>
 			<acme:menu-suboption code="master.menu.anonymous.link-Fernando" action="https://www.twitch.tv/"/>
 			<acme:menu-suboption code="master.menu.anonymous.link-Iratxe" action="https://www.spotify.com/"/>
+			<acme:menu-suboption code="master.menu.anonymous.link-Maria" action="https://www.max.com/"/>
 			
 		</acme:menu-option>
 
