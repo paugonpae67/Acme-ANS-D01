@@ -19,33 +19,35 @@ import lombok.Setter;
 @Entity
 public class Technician extends AbstractEntity {
 
+	private static final long	serialVersionUID	= 1L;
+
 	@Mandatory
 	@ValidString(pattern = "^[A-Z]{2-3}\\d{6}$")
 	@Column(unique = true)
-	private String	licenseNumber;
+	private String				licenseNumber;
 
 	@Mandatory
 	@ValidString(pattern = "^\\+?\\d{6,15}$")
 	@Automapped
-	private String	phoneNumber;
+	private String				phoneNumber;
 
 	@Mandatory
 	@ValidString(max = 50)
 	@Automapped
-	private String	specialisation;
+	private String				specialisation;
 
 	@Mandatory
 	@Valid
 	@Automapped
-	private Boolean	healthTestPassed;
+	private Boolean				healthTestPassed;
 
 	@Mandatory
 	@ValidNumber
 	@Automapped
-	private Integer	yearsOfexperience;
+	private Integer				yearsOfexperience;
 
 	@Optional
 	@ValidString(max = 255)
 	@Automapped
-	private String	certifications;
+	private String				certifications;
 }
