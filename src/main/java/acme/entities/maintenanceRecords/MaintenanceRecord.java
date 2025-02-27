@@ -24,6 +24,8 @@ import lombok.Setter;
 @Entity
 public class MaintenanceRecord extends AbstractEntity {
 
+	private static final long	serialVersionUID	= 1L;
+
 	@Mandatory
 	@ValidMoment
 	@Temporal(TemporalType.TIMESTAMP)
